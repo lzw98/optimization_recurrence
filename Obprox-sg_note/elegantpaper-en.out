@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{Model\040theories}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{MobileNetV1}{section.1}% 2
+\BOOKMARK [3][-]{subsubsection.1.1.1}{MobileNet\040Architecture}{subsection.1.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.1.2}{Network\040Structure\040and\040Training}{subsection.1.1}% 4
+\BOOKMARK [3][-]{subsubsection.1.1.3}{Width\040Multiplier:\040Thinner\040Models}{subsection.1.1}% 5
+\BOOKMARK [2][-]{subsection.1.2}{ResNet18}{section.1}% 6
+\BOOKMARK [3][-]{subsubsection.1.2.1}{Introduction}{subsection.1.2}% 7
+\BOOKMARK [3][-]{subsubsection.1.2.2}{Deep\040Residual\040Learning}{subsection.1.2}% 8
+\BOOKMARK [3][-]{subsubsection.1.2.3}{Network\040Architectures}{subsection.1.2}% 9
+\BOOKMARK [1][-]{section.2}{DC\040approximation\040approaches:\040consistency\040results}{}% 10
+\BOOKMARK [1][-]{section.3}{Programming\040Syntax}{}% 11
+\BOOKMARK [2][-]{subsection.3.1}{About\040initializing\040parameter}{section.3}% 12
